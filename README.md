@@ -16,6 +16,8 @@ pip install pillow==6.2.0
 
 The weight is available at: 
 
+put the downloaded weight in the bc_mod directory
+
 # USAGE
 
 1.Open the bc_model_app directory in Visual studio code( or any preferred source code editor)
