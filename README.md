@@ -4,7 +4,7 @@
 
 pip install django==3.0.6
 
-pip install tensorflow==1.5
+pip install tensorflow==1.15
 
 pip install numpy==1.16.5
 
