@@ -2,9 +2,15 @@
 
 # INSTALLATION
 
-pip install Django
+pip install django==3.0.6
 
 pip install tensorflow==1.5
+
+pip install numpy==1.16.5
+
+pip install django-crispy-forms==1.9.0
+
+pip install pillow==6.2.0
 
 # DOWNLOAD 
 
